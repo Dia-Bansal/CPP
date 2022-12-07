@@ -27,5 +27,3 @@ int main()
     printArray(arr,size);
     return 0;
 }
-Footer
-© 2022 GitHub, In
